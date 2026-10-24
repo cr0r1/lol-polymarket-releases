@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Mises à jour de LoL Polymarket</title>
-        <description>Les dernières mises à jour pour l'application LoL Polymarket (macOS &amp; iOS OTA).</description>
+        <description>Les dernières mises à jour pour l'application LoL Polymarket (macOS Sparkle).</description>
         <item>
-            <title>LoL Polymarket 1.0.0 (Build 5)</title>
-            <sparkle:version>5</sparkle:version>
+            <title>LoL Polymarket 1.0.0 (Build 6)</title>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <pubDate>Sat, 24 Oct 2026 19:24:48 +0000</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/cr0r1/lol-polymarket-releases/releases/tag/v1.0.0-5</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/cr0r1/lol-polymarket-releases/releases/download/v1.0.0-1/LoL_Polymarket.zip"
-                       sparkle:version="5"
+            <pubDate>Sat, 24 Oct 2026 22:11:34 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/cr0r1/lol-polymarket-releases/releases/tag/v1.0.0-6</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/cr0r1/lol-polymarket-releases/releases/download/v1.0.0-6/LoL_Polymarket.zip"
+                       sparkle:version="6"
                        sparkle:shortVersionString="1.0.0"
-                       length="21238700"
+                       length="21256798"
                        type="application/octet-stream"
-                       sparkle:edSignature="+LWgpSwnKx0i/kT5azHEGJSr4ckCz8D6OmbdWmVlAzeyDqdArySPuA0lPLmZMfw/Y48a5b3DdU4q254sy0j8DQ==" />
+                       sparkle:edSignature="ehXQ2Gbhl1QFYJmvLogXBfiaOSZHPJFUkNiBgdFlY+ZdjJYlrl+TqQygA5s0tachLYMSBhSzyENPUXPcb98hBA==" />
         </item>
     </channel>
 </rss>
