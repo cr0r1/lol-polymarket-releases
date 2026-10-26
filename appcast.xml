@@ -4,17 +4,17 @@
         <title>Mises à jour de LoL Polymarket</title>
         <description>Les dernières mises à jour pour l'application LoL Polymarket (macOS Sparkle).</description>
         <item>
-            <title>LoL Polymarket 1.0.0 (Build 16)</title>
-            <sparkle:version>16</sparkle:version>
+            <title>LoL Polymarket 1.0.0 (Build 17)</title>
+            <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <pubDate>Mon, 26 Oct 2026 13:10:33 +0000</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/cr0r1/lol-polymarket-releases/releases/tag/v1.0.0-16</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/cr0r1/lol-polymarket-releases/releases/download/v1.0.0-16/LoL_Polymarket.zip"
-                       sparkle:version="16"
+            <pubDate>Mon, 26 Oct 2026 13:40:37 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/cr0r1/lol-polymarket-releases/releases/tag/v1.0.0-17</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/cr0r1/lol-polymarket-releases/releases/download/v1.0.0-17/LoL_Polymarket.zip"
+                       sparkle:version="17"
                        sparkle:shortVersionString="1.0.0"
-                       length="21660527"
+                       length="21663466"
                        type="application/octet-stream"
-                       sparkle:edSignature="JEBqjPB94YeyMepPHMZ5Wwu+5h8Wpo/lZdUMH6guD6xtMVmiN6zbyX9jynEqsTNv2Y6GGvWGrLoPM4TF06XyBQ==" />
+                       sparkle:edSignature="9ETCvY7wO+p+P4/OO8NCN6+lkV6u6GDwl0aAdFXWKak/+8oVx+ViIpmcpBxC0ZEezJa0D5utZhIGiDBM7PmKAA==" />
         </item>
     </channel>
 </rss>
